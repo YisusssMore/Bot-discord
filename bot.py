@@ -26,4 +26,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTM5ODA0ODEzNTI4ODQ1NTI4OQ.GjnOZ-.ZFwwlJ64hRmGJycvxce3urQ3cW7JOBSI3qfOYQ")
+client.run("Aca el token")
